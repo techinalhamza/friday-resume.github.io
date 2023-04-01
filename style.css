@@ -17,12 +17,12 @@ body {
 
 .home-section {
     background: url(young-man_52137-30180.avif);
-    /* background: #1e272e; */
+    background: #1e272e;
     width: 100%;
     height: 100vh;
     background-position: center;
     background-size: cover;
-    /* outline: 2px solid red; */
+    outline: 2px solid red;
 
 }
 
